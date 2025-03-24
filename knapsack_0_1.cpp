@@ -70,7 +70,8 @@ void O_1_knapsack(vector<vector<int>> &dp, vector<int> &weights, vector<int> &pr
 }
 
 int main(){
-    cout<<"\n23bds0253 | Siddhant Gulecha \n\n\n";
+
+    
     int W;cout<<"enter max weight of knapsack(W) : ";cin>>W;
     int n;cout<<"enter number of items : ";cin>>n;
 
