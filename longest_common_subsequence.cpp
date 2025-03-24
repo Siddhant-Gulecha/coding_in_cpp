@@ -62,9 +62,6 @@ void longest_common_subsequence_DP(string s1, string s2, vector<vector<int>> &dp
 }
 
 int main(){
-    
-    cout<<"23bds0253 | Siddhant Gulecha \n";
-
     //input
     string s1,s2;
     cout<<"enter first string : ";
